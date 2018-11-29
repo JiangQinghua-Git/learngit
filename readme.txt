@@ -5,3 +5,5 @@ Git 新建分支练习
 Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
+
+# 测试--no--ff模式
